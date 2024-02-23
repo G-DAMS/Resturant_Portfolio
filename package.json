@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build:CSS": "tailwind build src/style.CSS -o dist/style.CSS"
+    "build:CSS": "tailwind build src/styles.CSS -o dist/style.CSS"
   },
   "keywords": [],
   "author": "",
